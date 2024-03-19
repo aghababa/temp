@@ -19,4 +19,9 @@ print(f(5))
 print("Hi")
 
 print("Hey")
+<<<<<<< HEAD
 >>>>>>> 5bd906c (2ed commit)
+=======
+
+x = 1
+>>>>>>> a8d5d71 (3rd)
