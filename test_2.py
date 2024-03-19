@@ -9,6 +9,5 @@ def g(x):
 
 f('2') # g('2')
 
-print(1)
-print('*')
-print(2)
+print(g(f(4)))
+
