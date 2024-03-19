@@ -10,5 +10,3 @@ def g(x):
 f('2') # g('2')
 
 print(g(10))
-
-print(f(5))
