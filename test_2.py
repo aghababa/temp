@@ -18,5 +18,6 @@ print(f(5))
 
 print("Hi")
 
+print('I like food')
 
 
