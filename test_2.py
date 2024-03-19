@@ -18,6 +18,6 @@ print(f(5))
 
 print("Hi")
 
-print('I like food')
+print('I like food and fruit')
 
 
