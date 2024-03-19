@@ -11,3 +11,5 @@ f('2') # g('2')
 
 print(g(f(4)))
 
+print('hahaha!')
+
